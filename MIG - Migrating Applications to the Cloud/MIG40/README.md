@@ -23,6 +23,10 @@ $ brew tap azure/functions
 $ brew install azure-functions-core-tools
 ```
 
+If you're using Windows, you can also using the following command:
+```console
+   npm install -g azure-functions-core-tools
+```
 * The [`jq`](https://stedolan.github.io/jq/) tool. Install with the following:
 
 ```console
